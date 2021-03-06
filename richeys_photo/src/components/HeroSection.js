@@ -6,9 +6,9 @@ import './HeroSection.css';
 function HeroSection() {
     return (
         <div className='hero-container'>
-            <video src="/videos/Page.mp4" autoPlay loop muted />
+            <video src="/videos/video-2.mp4" autoPlay loop muted />
             <h1>RICHEY JAY</h1>
-            <p>Welcome to the world in the eyes of Richey Jay</p>
+            <p> The World through the eyes of Richey Jay</p>
             <div className="hero-btns">
                 <Button
                 className='btns' 
