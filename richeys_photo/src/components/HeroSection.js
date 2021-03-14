@@ -15,14 +15,14 @@ function HeroSection() {
                 buttonStyle='btn--outline'
                 buttonSize='btn--large'
                 >
-                PLACEHOLDER   
+                ABOUT ME <i className='fas fa-user'/>
                 </Button>
                 <Button 
                 className='btns' 
                 buttonStyle='btn--primary'
                 buttonSize='btn--large'
                 >
-                PLACEHOLDER 2 <i className='far fa-play-circle'/>
+                PHOTOS <i className='fas fa-images'/>
                 </Button>
             </div>
 
