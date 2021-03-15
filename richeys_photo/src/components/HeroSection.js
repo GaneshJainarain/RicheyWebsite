@@ -1,6 +1,8 @@
 import React from 'react';
 import '../App.css';
 import { Button } from './Button';
+import { Button2 } from './Button2';
+
 import './HeroSection.css';
 
 function HeroSection() {
@@ -17,13 +19,13 @@ function HeroSection() {
                 >
                 ABOUT ME <i className='fas fa-user'/>
                 </Button>
-                <Button 
+                <Button2 
                 className='btns' 
                 buttonStyle='btn--primary'
                 buttonSize='btn--large'
                 >
                 PHOTOS <i className='fas fa-images'/>
-                </Button>
+                </Button2>
             </div>
 
         </div>
